@@ -1,7 +1,7 @@
 /* General styling */
 body {
   font-family: 'Cabin Sketch', sans-serif;
-  font-color: white;
+  font-color: #ffffff;
   margin: 5px;
   padding: 0px;
   background-color: transparent; /* Remove any background */
@@ -14,7 +14,7 @@ body {
 }
 
 .team {
-  font-color: white; /* Remove background from team boxes */
+  font-color: #ffffff; /* Remove background from team boxes */
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -50,12 +50,15 @@ button:focus {
 
 .team-1 {
   background-color: #000000;
+  font-color: #ffffff;
 }
 
 .team-2 {
   background-color: #000000;
+  font-color: #ffffff;
 }
 
 .team-3 {
   background-color: #000000;
+  font-color: #ffffff;
 }
