@@ -1,14 +1,14 @@
 /* General styling */
 body {
   font-family: 'Cabin Sketch', sans-serif;
-  fon-color: white;
-  display: flex;
+  font-color: white;
   margin: 5px;
   padding: 0px;
   background-color: transparent; /* Remove any background */
 }
 
 .scoreboard {
+  display: flex;
   margin-top: 1px;
   background-color: transparent; /* Remove background from scoreboard */
 }
