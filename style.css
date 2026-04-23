@@ -8,7 +8,7 @@ body {
 }
 
 .scoreboard {
-  display: inline-block;
+  display: flex;
   margin-top: 1px;
   background-color: transparent; /* Remove background from scoreboard */
 }
@@ -49,16 +49,16 @@ button:focus {
 }
 
 .team-1 {
-  background-color: #000000;
+  background-color: #353839;
   color: #ffffff;
 }
 
 .team-2 {
-  background-color: #000000;
+  background-color: #353839;
   color: #ffffff;
 }
 
 .team-3 {
-  background-color: #000000;
+  background-color: #353839;
   color: #ffffff;
 }
