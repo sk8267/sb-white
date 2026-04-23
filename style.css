@@ -1,6 +1,8 @@
 /* General styling */
 body {
   font-family: 'Cabin Sketch', sans-serif;
+  fon-color: white;
+  display: flex;
   margin: 5px;
   padding: 0px;
   background-color: transparent; /* Remove any background */
@@ -13,7 +15,7 @@ body {
 
 .team {
   font-color: white; /* Remove background from team boxes */
-  padding: 10px
+  padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 120px;  /* Reduced width by half */
