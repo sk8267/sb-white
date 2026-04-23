@@ -19,12 +19,11 @@ body {
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 120px;  /* Reduced width by half */
-  text-align: center;
+  width: 120px;
 }
 
 h3 {
-  font-size: 30px;  /* Keep the team name font size the same */
+  font-size: 30px;
   margin-bottom: 5px;
 }
 
@@ -52,17 +51,14 @@ button:focus {
 .team-1 {
   background-color: #353839;
   color: #ffffff;
-  text-align: center;
 }
 
 .team-2 {
   background-color: #353839;
   color: #ffffff;
-  text-align: center;
 }
 
 .team-3 {
   background-color: #353839;
   color: #ffffff;
-  text-align: center;
 }
