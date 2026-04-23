@@ -8,17 +8,16 @@ body {
 
 .scoreboard {
   display: flex;
-  justify-content: space-around;
   margin-top: 0px;
   background-color: transparent; /* Remove background from scoreboard */
 }
 
 .team {
-  background-color: transparent; /* Remove background from team boxes */
-  padding: 5px 5px 5px 5px;  /* Smaller padding */
-  border-radius: 8px;
+  background-color: white; /* Remove background from team boxes */
+  padding: 5px
+  border-radius: 0px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 130px;  /* Reduced width by half */
+  width: 100px;  /* Reduced width by half */
   text-align: center;
 }
 
