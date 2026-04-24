@@ -22,6 +22,7 @@ body {
 
 .team {
   color: #ffffff;
+  border: 1px white;
   padding: 5px;
   border-radius: 2px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
