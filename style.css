@@ -25,7 +25,7 @@ body {
   padding: 5px;
   border-radius: 2px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  width: 120px;
+  width: 130px;
   height: auto;
   text-align: center;
 }
@@ -61,14 +61,17 @@ button:focus {
 .team-1 {
   background-color: #353839;
   color: #ffffff;
+  border: 1px white;
 }
 
 .team-2 {
   background-color: #353839;
   color: #ffffff;
+  border: 1px white;
 }
 
 .team-3 {
   background-color: #353839;
   color: #ffffff;
+  border: 1px white;
 }
